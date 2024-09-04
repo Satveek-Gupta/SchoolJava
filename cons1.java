@@ -1,0 +1,3 @@
+class cons1 {
+    
+}
